@@ -1,0 +1,19 @@
+# Archivos de compilación
+/target/
+*.class
+
+# Configuración de IDEs
+/.idea/
+/*.iml
+*.log
+*.swp
+*.swo
+.vscode/
+*.DS_Store
+
+# Archivos del sistema
+Thumbs.db
+*.bak
+
+# Archivos del entorno
+.env
