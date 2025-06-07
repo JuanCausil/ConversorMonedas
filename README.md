@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💱 Conversor de Monedas - Java Console App
 
 Este es un proyecto de consola desarrollado en **Java** utilizando **Maven**, que permite convertir valores entre distintas monedas en tiempo real consumiendo datos desde una API externa de tasas de cambio.
@@ -63,3 +64,6 @@ Desarrollado por: Juan Causil
 GitHub: https://github.com/JuanCausil
 
 Email: jdavix42@gmail.com
+=======
+# ConversorMonedas
+>>>>>>> 6ac5ea299befcd7687afd58273fc105e64aaf524
